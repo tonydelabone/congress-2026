@@ -1,0 +1,5670 @@
+[
+ {
+  "congress": "120",
+  "fips": "0200",
+  "id": "AK00",
+  "name": "AK00 District",
+  "file": "districts/AK00.geojson",
+  "bbox": [
+   172.46167,
+   51.22611,
+   -129.98006,
+   71.35256
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0101",
+  "id": "AL01",
+  "name": "AL01 District",
+  "file": "districts/AL01.geojson",
+  "bbox": [
+   -88.43201,
+   30.22937,
+   -86.18725,
+   31.52713
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0102",
+  "id": "AL02",
+  "name": "AL02 District",
+  "file": "districts/AL02.geojson",
+  "bbox": [
+   -86.90894,
+   30.99288,
+   -84.88943,
+   32.65366
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0103",
+  "id": "AL03",
+  "name": "AL03 District",
+  "file": "districts/AL03.geojson",
+  "bbox": [
+   -86.5778,
+   32.40984,
+   -85.00102,
+   34.52386
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0104",
+  "id": "AL04",
+  "name": "AL04 District",
+  "file": "districts/AL04.geojson",
+  "bbox": [
+   -88.27462,
+   33.01097,
+   -85.51362,
+   35.00803
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0105",
+  "id": "AL05",
+  "name": "AL05 District",
+  "file": "districts/AL05.geojson",
+  "bbox": [
+   -87.52972,
+   34.2993,
+   -85.58315,
+   35.00267
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0106",
+  "id": "AL06",
+  "name": "AL06 District",
+  "file": "districts/AL06.geojson",
+  "bbox": [
+   -87.42194,
+   32.33877,
+   -85.87986,
+   33.84324
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0107",
+  "id": "AL07",
+  "name": "AL07 District",
+  "file": "districts/AL07.geojson",
+  "bbox": [
+   -88.47323,
+   31.1143,
+   -86.66251,
+   33.7079
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0501",
+  "id": "AR01",
+  "name": "AR01 District",
+  "file": "districts/AR01.geojson",
+  "bbox": [
+   -93.30083,
+   33.0043,
+   -89.641,
+   36.49956
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0502",
+  "id": "AR02",
+  "name": "AR02 District",
+  "file": "districts/AR02.geojson",
+  "bbox": [
+   -93.30569,
+   34.41318,
+   -91.34726,
+   35.79083
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0503",
+  "id": "AR03",
+  "name": "AR03 District",
+  "file": "districts/AR03.geojson",
+  "bbox": [
+   -94.61787,
+   35.14091,
+   -93.29318,
+   36.49963
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0504",
+  "id": "AR04",
+  "name": "AR04 District",
+  "file": "districts/AR04.geojson",
+  "bbox": [
+   -94.48591,
+   33.0062,
+   -91.45029,
+   36.12506
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0401",
+  "id": "AZ01",
+  "name": "AZ01 District",
+  "file": "districts/AZ01.geojson",
+  "bbox": [
+   -112.11457,
+   33.43672,
+   -111.03992,
+   34.02987
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0402",
+  "id": "AZ02",
+  "name": "AZ02 District",
+  "file": "districts/AZ02.geojson",
+  "bbox": [
+   -114.04289,
+   32.7626,
+   -109.04518,
+   37.0037
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0403",
+  "id": "AZ03",
+  "name": "AZ03 District",
+  "file": "districts/AZ03.geojson",
+  "bbox": [
+   -112.31284,
+   33.30465,
+   -111.97875,
+   33.53833
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0404",
+  "id": "AZ04",
+  "name": "AZ04 District",
+  "file": "districts/AZ04.geojson",
+  "bbox": [
+   -112.14793,
+   33.28265,
+   -111.63622,
+   33.48626
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0405",
+  "id": "AZ05",
+  "name": "AZ05 District",
+  "file": "districts/AZ05.geojson",
+  "bbox": [
+   -111.89361,
+   33.11766,
+   -111.41206,
+   33.4958
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0406",
+  "id": "AZ06",
+  "name": "AZ06 District",
+  "file": "districts/AZ06.geojson",
+  "bbox": [
+   -111.87762,
+   31.3325,
+   -109.04673,
+   33.77813
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0407",
+  "id": "AZ07",
+  "name": "AZ07 District",
+  "file": "districts/AZ07.geojson",
+  "bbox": [
+   -114.81361,
+   31.33235,
+   -109.46445,
+   33.4938
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0408",
+  "id": "AZ08",
+  "name": "AZ08 District",
+  "file": "districts/AZ08.geojson",
+  "bbox": [
+   -112.46034,
+   33.5314,
+   -111.99545,
+   34.04817
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0409",
+  "id": "AZ09",
+  "name": "AZ09 District",
+  "file": "districts/AZ09.geojson",
+  "bbox": [
+   -114.74114,
+   32.5528,
+   -112.20307,
+   37.00053
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0601",
+  "id": "CA01",
+  "name": "CA01 District",
+  "file": "districts/CA01.geojson",
+  "bbox": [
+   -123.80207,
+   38.35663,
+   -119.99572,
+   41.18398
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0602",
+  "id": "CA02",
+  "name": "CA02 District",
+  "file": "districts/CA02.geojson",
+  "bbox": [
+   -124.4086,
+   37.82109,
+   -119.99835,
+   42.00916
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0603",
+  "id": "CA03",
+  "name": "CA03 District",
+  "file": "districts/CA03.geojson",
+  "bbox": [
+   -121.47224,
+   38.47434,
+   -119.87776,
+   39.5238
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0604",
+  "id": "CA04",
+  "name": "CA04 District",
+  "file": "districts/CA04.geojson",
+  "bbox": [
+   -122.77506,
+   38.1113,
+   -121.00949,
+   39.63946
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0605",
+  "id": "CA05",
+  "name": "CA05 District",
+  "file": "districts/CA05.geojson",
+  "bbox": [
+   -121.14798,
+   35.78669,
+   -115.64837,
+   38.93333
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0606",
+  "id": "CA06",
+  "name": "CA06 District",
+  "file": "districts/CA06.geojson",
+  "bbox": [
+   -121.62835,
+   38.50194,
+   -121.18927,
+   38.84857
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0607",
+  "id": "CA07",
+  "name": "CA07 District",
+  "file": "districts/CA07.geojson",
+  "bbox": [
+   -121.57797,
+   37.88638,
+   -120.64423,
+   38.9638
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0608",
+  "id": "CA08",
+  "name": "CA08 District",
+  "file": "districts/CA08.geojson",
+  "bbox": [
+   -122.41265,
+   37.87962,
+   -121.27609,
+   38.5786
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0609",
+  "id": "CA09",
+  "name": "CA09 District",
+  "file": "districts/CA09.geojson",
+  "bbox": [
+   -121.92811,
+   37.66322,
+   -121.11026,
+   38.14698
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0610",
+  "id": "CA10",
+  "name": "CA10 District",
+  "file": "districts/CA10.geojson",
+  "bbox": [
+   -122.25552,
+   37.68443,
+   -121.53426,
+   38.0673
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0611",
+  "id": "CA11",
+  "name": "CA11 District",
+  "file": "districts/CA11.geojson",
+  "bbox": [
+   -122.51448,
+   37.70814,
+   -122.35928,
+   37.8089
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0612",
+  "id": "CA12",
+  "name": "CA12 District",
+  "file": "districts/CA12.geojson",
+  "bbox": [
+   -122.33094,
+   37.66757,
+   -122.11547,
+   37.90378
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0613",
+  "id": "CA13",
+  "name": "CA13 District",
+  "file": "districts/CA13.geojson",
+  "bbox": [
+   -121.55697,
+   36.65992,
+   -120.00618,
+   37.98935
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0614",
+  "id": "CA14",
+  "name": "CA14 District",
+  "file": "districts/CA14.geojson",
+  "bbox": [
+   -122.16205,
+   37.48217,
+   -121.47266,
+   37.81649
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0615",
+  "id": "CA15",
+  "name": "CA15 District",
+  "file": "districts/CA15.geojson",
+  "bbox": [
+   -122.50243,
+   37.4483,
+   -122.11517,
+   37.73372
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0616",
+  "id": "CA16",
+  "name": "CA16 District",
+  "file": "districts/CA16.geojson",
+  "bbox": [
+   -122.51719,
+   37.10733,
+   -121.80291,
+   37.66517
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0617",
+  "id": "CA17",
+  "name": "CA17 District",
+  "file": "districts/CA17.geojson",
+  "bbox": [
+   -122.11145,
+   37.29375,
+   -121.78254,
+   37.56358
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0618",
+  "id": "CA18",
+  "name": "CA18 District",
+  "file": "districts/CA18.geojson",
+  "bbox": [
+   -121.91494,
+   35.78937,
+   -119.78261,
+   37.48454
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0619",
+  "id": "CA19",
+  "name": "CA19 District",
+  "file": "districts/CA19.geojson",
+  "bbox": [
+   -122.3177,
+   35.43972,
+   -120.05705,
+   37.34505
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0620",
+  "id": "CA20",
+  "name": "CA20 District",
+  "file": "districts/CA20.geojson",
+  "bbox": [
+   -119.95924,
+   34.78866,
+   -117.61653,
+   36.99169
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0621",
+  "id": "CA21",
+  "name": "CA21 District",
+  "file": "districts/CA21.geojson",
+  "bbox": [
+   -119.9165,
+   36.32707,
+   -119.08093,
+   36.8376
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0622",
+  "id": "CA22",
+  "name": "CA22 District",
+  "file": "districts/CA22.geojson",
+  "bbox": [
+   -120.62257,
+   35.17985,
+   -118.75265,
+   36.90938
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0623",
+  "id": "CA23",
+  "name": "CA23 District",
+  "file": "districts/CA23.geojson",
+  "bbox": [
+   -118.20199,
+   33.42987,
+   -114.13546,
+   35.96422
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0624",
+  "id": "CA24",
+  "name": "CA24 District",
+  "file": "districts/CA24.geojson",
+  "bbox": [
+   -120.98424,
+   33.21473,
+   -119.15448,
+   35.52238
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0625",
+  "id": "CA25",
+  "name": "CA25 District",
+  "file": "districts/CA25.geojson",
+  "bbox": [
+   -117.06047,
+   32.61864,
+   -114.46294,
+   34.20826
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0626",
+  "id": "CA26",
+  "name": "CA26 District",
+  "file": "districts/CA26.geojson",
+  "bbox": [
+   -119.45077,
+   34.04582,
+   -118.20126,
+   34.90118
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0627",
+  "id": "CA27",
+  "name": "CA27 District",
+  "file": "districts/CA27.geojson",
+  "bbox": [
+   -118.71465,
+   34.1866,
+   -117.88062,
+   34.82255
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0628",
+  "id": "CA28",
+  "name": "CA28 District",
+  "file": "districts/CA28.geojson",
+  "bbox": [
+   -118.24877,
+   34.03347,
+   -117.41055,
+   34.50661
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0629",
+  "id": "CA29",
+  "name": "CA29 District",
+  "file": "districts/CA29.geojson",
+  "bbox": [
+   -118.50402,
+   34.13787,
+   -118.31921,
+   34.33716
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0630",
+  "id": "CA30",
+  "name": "CA30 District",
+  "file": "districts/CA30.geojson",
+  "bbox": [
+   -118.50402,
+   34.05469,
+   -118.03038,
+   34.53856
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0631",
+  "id": "CA31",
+  "name": "CA31 District",
+  "file": "districts/CA31.geojson",
+  "bbox": [
+   -118.0214,
+   33.98273,
+   -117.65065,
+   34.19396
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0632",
+  "id": "CA32",
+  "name": "CA32 District",
+  "file": "districts/CA32.geojson",
+  "bbox": [
+   -118.94461,
+   34.00045,
+   -118.36283,
+   34.3234
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0633",
+  "id": "CA33",
+  "name": "CA33 District",
+  "file": "districts/CA33.geojson",
+  "bbox": [
+   -117.61106,
+   33.95035,
+   -117.13897,
+   34.23463
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0634",
+  "id": "CA34",
+  "name": "CA34 District",
+  "file": "districts/CA34.geojson",
+  "bbox": [
+   -118.32297,
+   34.00805,
+   -118.12758,
+   34.1459
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0635",
+  "id": "CA35",
+  "name": "CA35 District",
+  "file": "districts/CA35.geojson",
+  "bbox": [
+   -117.80255,
+   33.86272,
+   -117.38337,
+   34.16518
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0636",
+  "id": "CA36",
+  "name": "CA36 District",
+  "file": "districts/CA36.geojson",
+  "bbox": [
+   -118.5167,
+   33.72214,
+   -118.29835,
+   34.09432
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0637",
+  "id": "CA37",
+  "name": "CA37 District",
+  "file": "districts/CA37.geojson",
+  "bbox": [
+   -118.41847,
+   33.95473,
+   -118.23862,
+   34.0596
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0638",
+  "id": "CA38",
+  "name": "CA38 District",
+  "file": "districts/CA38.geojson",
+  "bbox": [
+   -118.20625,
+   33.84232,
+   -117.67303,
+   34.10776
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0639",
+  "id": "CA39",
+  "name": "CA39 District",
+  "file": "districts/CA39.geojson",
+  "bbox": [
+   -117.55025,
+   33.71309,
+   -117.11976,
+   34.03388
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0640",
+  "id": "CA40",
+  "name": "CA40 District",
+  "file": "districts/CA40.geojson",
+  "bbox": [
+   -117.85297,
+   33.43202,
+   -117.13648,
+   33.88795
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0641",
+  "id": "CA41",
+  "name": "CA41 District",
+  "file": "districts/CA41.geojson",
+  "bbox": [
+   -118.17044,
+   33.77475,
+   -117.87197,
+   33.99161
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0642",
+  "id": "CA42",
+  "name": "CA42 District",
+  "file": "districts/CA42.geojson",
+  "bbox": [
+   -118.58989,
+   32.80146,
+   -117.82875,
+   33.84694
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0643",
+  "id": "CA43",
+  "name": "CA43 District",
+  "file": "districts/CA43.geojson",
+  "bbox": [
+   -118.44462,
+   33.81704,
+   -118.18676,
+   33.98176
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0644",
+  "id": "CA44",
+  "name": "CA44 District",
+  "file": "districts/CA44.geojson",
+  "bbox": [
+   -118.33291,
+   33.70604,
+   -118.14275,
+   34.01472
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0645",
+  "id": "CA45",
+  "name": "CA45 District",
+  "file": "districts/CA45.geojson",
+  "bbox": [
+   -118.10833,
+   33.68679,
+   -117.86203,
+   33.91185
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0646",
+  "id": "CA46",
+  "name": "CA46 District",
+  "file": "districts/CA46.geojson",
+  "bbox": [
+   -118.01313,
+   33.69194,
+   -117.77751,
+   33.89921
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0647",
+  "id": "CA47",
+  "name": "CA47 District",
+  "file": "districts/CA47.geojson",
+  "bbox": [
+   -117.87924,
+   33.44036,
+   -117.62061,
+   33.78795
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0648",
+  "id": "CA48",
+  "name": "CA48 District",
+  "file": "districts/CA48.geojson",
+  "bbox": [
+   -117.29844,
+   32.63624,
+   -116.0811,
+   33.92212
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0649",
+  "id": "CA49",
+  "name": "CA49 District",
+  "file": "districts/CA49.geojson",
+  "bbox": [
+   -117.6834,
+   32.87158,
+   -117.07228,
+   33.56947
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0650",
+  "id": "CA50",
+  "name": "CA50 District",
+  "file": "districts/CA50.geojson",
+  "bbox": [
+   -117.28058,
+   32.58563,
+   -116.80688,
+   33.29226
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0651",
+  "id": "CA51",
+  "name": "CA51 District",
+  "file": "districts/CA51.geojson",
+  "bbox": [
+   -117.19225,
+   32.69868,
+   -116.41143,
+   33.12386
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0652",
+  "id": "CA52",
+  "name": "CA52 District",
+  "file": "districts/CA52.geojson",
+  "bbox": [
+   -117.14778,
+   32.53444,
+   -116.10578,
+   32.83853
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0801",
+  "id": "CO01",
+  "name": "CO01 District",
+  "file": "districts/CO01.geojson",
+  "bbox": [
+   -105.05809,
+   39.61751,
+   -104.59959,
+   39.90672
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0802",
+  "id": "CO02",
+  "name": "CO02 District",
+  "file": "districts/CO02.geojson",
+  "bbox": [
+   -107.4426,
+   39.35048,
+   -104.94314,
+   41.00342
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0803",
+  "id": "CO03",
+  "name": "CO03 District",
+  "file": "districts/CO03.geojson",
+  "bbox": [
+   -109.0602,
+   36.9925,
+   -103.07467,
+   41.00292
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0804",
+  "id": "CO04",
+  "name": "CO04 District",
+  "file": "districts/CO04.geojson",
+  "bbox": [
+   -105.3287,
+   36.99302,
+   -102.04164,
+   41.00237
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0805",
+  "id": "CO05",
+  "name": "CO05 District",
+  "file": "districts/CO05.geojson",
+  "bbox": [
+   -105.07219,
+   38.51945,
+   -104.27548,
+   39.12972
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0806",
+  "id": "CO06",
+  "name": "CO06 District",
+  "file": "districts/CO06.geojson",
+  "bbox": [
+   -105.1557,
+   39.53618,
+   -104.47093,
+   39.82664
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0807",
+  "id": "CO07",
+  "name": "CO07 District",
+  "file": "districts/CO07.geojson",
+  "bbox": [
+   -106.59724,
+   37.89053,
+   -104.93988,
+   40.04389
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0808",
+  "id": "CO08",
+  "name": "CO08 District",
+  "file": "districts/CO08.geojson",
+  "bbox": [
+   -105.11724,
+   39.79103,
+   -104.44593,
+   40.50889
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0901",
+  "id": "CT01",
+  "name": "CT01 District",
+  "file": "districts/CT01.geojson",
+  "bbox": [
+   -73.20184,
+   41.54429,
+   -72.4639,
+   42.04214
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0902",
+  "id": "CT02",
+  "name": "CT02 District",
+  "file": "districts/CT02.geojson",
+  "bbox": [
+   -72.77841,
+   41.2487,
+   -71.78725,
+   42.03636
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0903",
+  "id": "CT03",
+  "name": "CT03 District",
+  "file": "districts/CT03.geojson",
+  "bbox": [
+   -73.1648,
+   41.1468,
+   -72.55491,
+   41.56066
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0904",
+  "id": "CT04",
+  "name": "CT04 District",
+  "file": "districts/CT04.geojson",
+  "bbox": [
+   -73.72777,
+   40.98886,
+   -73.07737,
+   41.48942
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "0905",
+  "id": "CT05",
+  "name": "CT05 District",
+  "file": "districts/CT05.geojson",
+  "bbox": [
+   -73.54342,
+   41.31835,
+   -72.74478,
+   42.05048
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1198",
+  "id": "DC98",
+  "name": "DC98 District",
+  "file": "districts/DC98.geojson",
+  "bbox": [
+   -77.11976,
+   38.79165,
+   -76.90939,
+   38.99472
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1000",
+  "id": "DE00",
+  "name": "DE00 District",
+  "file": "districts/DE00.geojson",
+  "bbox": [
+   -75.78902,
+   38.45125,
+   -75.05025,
+   39.83951
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1201",
+  "id": "FL01",
+  "name": "FL01 District",
+  "file": "districts/FL01.geojson",
+  "bbox": [
+   -87.63484,
+   30.28043,
+   -86.1073,
+   30.99954
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1202",
+  "id": "FL02",
+  "name": "FL02 District",
+  "file": "districts/FL02.geojson",
+  "bbox": [
+   -86.17973,
+   29.63306,
+   -83.17097,
+   31.00089
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1203",
+  "id": "FL03",
+  "name": "FL03 District",
+  "file": "districts/FL03.geojson",
+  "bbox": [
+   -83.40963,
+   28.9602,
+   -82.04612,
+   30.63441
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1204",
+  "id": "FL04",
+  "name": "FL04 District",
+  "file": "districts/FL04.geojson",
+  "bbox": [
+   -82.04996,
+   29.71868,
+   -81.41131,
+   30.82955
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1205",
+  "id": "FL05",
+  "name": "FL05 District",
+  "file": "districts/FL05.geojson",
+  "bbox": [
+   -81.69052,
+   29.81707,
+   -81.26241,
+   30.40241
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1206",
+  "id": "FL06",
+  "name": "FL06 District",
+  "file": "districts/FL06.geojson",
+  "bbox": [
+   -82.18489,
+   28.78598,
+   -80.97916,
+   29.86139
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1207",
+  "id": "FL07",
+  "name": "FL07 District",
+  "file": "districts/FL07.geojson",
+  "bbox": [
+   -81.45973,
+   28.61051,
+   -80.73293,
+   29.20606
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1208",
+  "id": "FL08",
+  "name": "FL08 District",
+  "file": "districts/FL08.geojson",
+  "bbox": [
+   -81.25096,
+   27.82206,
+   -80.44708,
+   28.79125
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1209",
+  "id": "FL09",
+  "name": "FL09 District",
+  "file": "districts/FL09.geojson",
+  "bbox": [
+   -81.59065,
+   26.76878,
+   -80.32156,
+   28.48119
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1210",
+  "id": "FL10",
+  "name": "FL10 District",
+  "file": "districts/FL10.geojson",
+  "bbox": [
+   -81.56314,
+   28.44867,
+   -81.20701,
+   28.67674
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1211",
+  "id": "FL11",
+  "name": "FL11 District",
+  "file": "districts/FL11.geojson",
+  "bbox": [
+   -82.3117,
+   28.30533,
+   -81.3676,
+   28.9604
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1212",
+  "id": "FL12",
+  "name": "FL12 District",
+  "file": "districts/FL12.geojson",
+  "bbox": [
+   -82.76444,
+   27.94477,
+   -82.28121,
+   28.4348
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1213",
+  "id": "FL13",
+  "name": "FL13 District",
+  "file": "districts/FL13.geojson",
+  "bbox": [
+   -82.85217,
+   27.78919,
+   -82.58763,
+   28.21893
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1214",
+  "id": "FL14",
+  "name": "FL14 District",
+  "file": "districts/FL14.geojson",
+  "bbox": [
+   -82.64856,
+   27.6453,
+   -82.05435,
+   28.08039
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1215",
+  "id": "FL15",
+  "name": "FL15 District",
+  "file": "districts/FL15.geojson",
+  "bbox": [
+   -82.75943,
+   27.89657,
+   -82.05447,
+   29.05249
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1216",
+  "id": "FL16",
+  "name": "FL16 District",
+  "file": "districts/FL16.geojson",
+  "bbox": [
+   -82.83756,
+   27.03212,
+   -81.53034,
+   27.88743
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1217",
+  "id": "FL17",
+  "name": "FL17 District",
+  "file": "districts/FL17.geojson",
+  "bbox": [
+   -82.64284,
+   26.54746,
+   -81.56263,
+   27.38974
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1218",
+  "id": "FL18",
+  "name": "FL18 District",
+  "file": "districts/FL18.geojson",
+  "bbox": [
+   -82.10621,
+   27.75917,
+   -81.33665,
+   28.36187
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1219",
+  "id": "FL19",
+  "name": "FL19 District",
+  "file": "districts/FL19.geojson",
+  "bbox": [
+   -82.27209,
+   26.07892,
+   -81.56218,
+   26.78952
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1220",
+  "id": "FL20",
+  "name": "FL20 District",
+  "file": "districts/FL20.geojson",
+  "bbox": [
+   -80.29773,
+   26.10599,
+   -80.09999,
+   26.32778
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1221",
+  "id": "FL21",
+  "name": "FL21 District",
+  "file": "districts/FL21.geojson",
+  "bbox": [
+   -80.88564,
+   26.67879,
+   -80.03136,
+   27.55848
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1222",
+  "id": "FL22",
+  "name": "FL22 District",
+  "file": "districts/FL22.geojson",
+  "bbox": [
+   -81.79614,
+   25.80333,
+   -80.1452,
+   26.95892
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1223",
+  "id": "FL23",
+  "name": "FL23 District",
+  "file": "districts/FL23.geojson",
+  "bbox": [
+   -80.20558,
+   26.42435,
+   -80.03316,
+   26.79418
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1224",
+  "id": "FL24",
+  "name": "FL24 District",
+  "file": "districts/FL24.geojson",
+  "bbox": [
+   -80.28727,
+   25.7797,
+   -80.14388,
+   26.05924
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1225",
+  "id": "FL25",
+  "name": "FL25 District",
+  "file": "districts/FL25.geojson",
+  "bbox": [
+   -80.21819,
+   25.75554,
+   -80.05563,
+   26.47583
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1226",
+  "id": "FL26",
+  "name": "FL26 District",
+  "file": "districts/FL26.geojson",
+  "bbox": [
+   -80.87914,
+   25.76094,
+   -80.21333,
+   26.17255
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1227",
+  "id": "FL27",
+  "name": "FL27 District",
+  "file": "districts/FL27.geojson",
+  "bbox": [
+   -80.38259,
+   25.5352,
+   -80.13964,
+   25.79386
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1228",
+  "id": "FL28",
+  "name": "FL28 District",
+  "file": "districts/FL28.geojson",
+  "bbox": [
+   -81.81099,
+   24.54451,
+   -80.25302,
+   25.80538
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1301",
+  "id": "GA01",
+  "name": "GA01 District",
+  "file": "districts/GA01.geojson",
+  "bbox": [
+   -82.69921,
+   30.356,
+   -80.84092,
+   32.37541
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1302",
+  "id": "GA02",
+  "name": "GA02 District",
+  "file": "districts/GA02.geojson",
+  "bbox": [
+   -85.14183,
+   30.6584,
+   -83.48943,
+   32.88784
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1303",
+  "id": "GA03",
+  "name": "GA03 District",
+  "file": "districts/GA03.geojson",
+  "bbox": [
+   -85.38658,
+   32.50814,
+   -84.0415,
+   33.9063
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1304",
+  "id": "GA04",
+  "name": "GA04 District",
+  "file": "districts/GA04.geojson",
+  "bbox": [
+   -84.34809,
+   33.62511,
+   -84.02371,
+   34.03443
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1305",
+  "id": "GA05",
+  "name": "GA05 District",
+  "file": "districts/GA05.geojson",
+  "bbox": [
+   -84.52282,
+   33.48574,
+   -84.247,
+   33.88209
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1306",
+  "id": "GA06",
+  "name": "GA06 District",
+  "file": "districts/GA06.geojson",
+  "bbox": [
+   -84.83234,
+   33.45747,
+   -84.34782,
+   33.92986
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1307",
+  "id": "GA07",
+  "name": "GA07 District",
+  "file": "districts/GA07.geojson",
+  "bbox": [
+   -84.44703,
+   33.9017,
+   -83.84331,
+   34.74086
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1308",
+  "id": "GA08",
+  "name": "GA08 District",
+  "file": "districts/GA08.geojson",
+  "bbox": [
+   -84.12428,
+   30.58177,
+   -82.41891,
+   33.20263
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1309",
+  "id": "GA09",
+  "name": "GA09 District",
+  "file": "districts/GA09.geojson",
+  "bbox": [
+   -84.6571,
+   33.93034,
+   -83.10236,
+   35.00124
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1310",
+  "id": "GA10",
+  "name": "GA10 District",
+  "file": "districts/GA10.geojson",
+  "bbox": [
+   -84.24727,
+   33.04985,
+   -82.56449,
+   34.53661
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1311",
+  "id": "GA11",
+  "name": "GA11 District",
+  "file": "districts/GA11.geojson",
+  "bbox": [
+   -85.09,
+   33.89821,
+   -84.25687,
+   34.61901
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1312",
+  "id": "GA12",
+  "name": "GA12 District",
+  "file": "districts/GA12.geojson",
+  "bbox": [
+   -83.22654,
+   31.80065,
+   -81.17541,
+   33.99064
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1313",
+  "id": "GA13",
+  "name": "GA13 District",
+  "file": "districts/GA13.geojson",
+  "bbox": [
+   -84.4022,
+   33.35246,
+   -83.80588,
+   33.96347
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1314",
+  "id": "GA14",
+  "name": "GA14 District",
+  "file": "districts/GA14.geojson",
+  "bbox": [
+   -85.60517,
+   33.77476,
+   -84.5822,
+   34.98833
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1501",
+  "id": "HI01",
+  "name": "HI01 District",
+  "file": "districts/HI01.geojson",
+  "bbox": [
+   -158.08955,
+   21.25716,
+   -157.64929,
+   21.50156
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1502",
+  "id": "HI02",
+  "name": "HI02 District",
+  "file": "districts/HI02.geojson",
+  "bbox": [
+   -160.24518,
+   18.92245,
+   -154.81135,
+   22.22951
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1901",
+  "id": "IA01",
+  "name": "IA01 District",
+  "file": "districts/IA01.geojson",
+  "bbox": [
+   -93.79062,
+   40.37564,
+   -90.14007,
+   42.38216
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1902",
+  "id": "IA02",
+  "name": "IA02 District",
+  "file": "districts/IA02.geojson",
+  "bbox": [
+   -93.49949,
+   41.5088,
+   -90.4738,
+   43.50063
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1903",
+  "id": "IA03",
+  "name": "IA03 District",
+  "file": "districts/IA03.geojson",
+  "bbox": [
+   -95.38526,
+   40.57074,
+   -92.17829,
+   42.20993
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1904",
+  "id": "IA04",
+  "name": "IA04 District",
+  "file": "districts/IA04.geojson",
+  "bbox": [
+   -96.63556,
+   40.58049,
+   -92.76601,
+   43.50088
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1601",
+  "id": "ID01",
+  "name": "ID01 District",
+  "file": "districts/ID01.geojson",
+  "bbox": [
+   -117.24269,
+   41.99628,
+   -114.32072,
+   49.00085
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1602",
+  "id": "ID02",
+  "name": "ID02 District",
+  "file": "districts/ID02.geojson",
+  "bbox": [
+   -116.35443,
+   41.98819,
+   -111.04356,
+   45.70593
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1701",
+  "id": "IL01",
+  "name": "IL01 District",
+  "file": "districts/IL01.geojson",
+  "bbox": [
+   -88.25222,
+   41.14738,
+   -87.55514,
+   41.85276
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1702",
+  "id": "IL02",
+  "name": "IL02 District",
+  "file": "districts/IL02.geojson",
+  "bbox": [
+   -88.63566,
+   40.02728,
+   -87.52417,
+   41.81698
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1703",
+  "id": "IL03",
+  "name": "IL03 District",
+  "file": "districts/IL03.geojson",
+  "bbox": [
+   -88.26355,
+   41.81474,
+   -87.68723,
+   42.05899
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1704",
+  "id": "IL04",
+  "name": "IL04 District",
+  "file": "districts/IL04.geojson",
+  "bbox": [
+   -87.95793,
+   41.73351,
+   -87.64423,
+   41.94818
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1705",
+  "id": "IL05",
+  "name": "IL05 District",
+  "file": "districts/IL05.geojson",
+  "bbox": [
+   -88.23845,
+   41.89588,
+   -87.61589,
+   42.21271
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1706",
+  "id": "IL06",
+  "name": "IL06 District",
+  "file": "districts/IL06.geojson",
+  "bbox": [
+   -88.11378,
+   41.55761,
+   -87.68185,
+   41.93131
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1707",
+  "id": "IL07",
+  "name": "IL07 District",
+  "file": "districts/IL07.geojson",
+  "bbox": [
+   -87.92061,
+   41.758,
+   -87.60787,
+   41.91786
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1708",
+  "id": "IL08",
+  "name": "IL08 District",
+  "file": "districts/IL08.geojson",
+  "bbox": [
+   -88.47199,
+   41.86532,
+   -87.85845,
+   42.15421
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1709",
+  "id": "IL09",
+  "name": "IL09 District",
+  "file": "districts/IL09.geojson",
+  "bbox": [
+   -88.35506,
+   41.95485,
+   -87.64108,
+   42.26626
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1710",
+  "id": "IL10",
+  "name": "IL10 District",
+  "file": "districts/IL10.geojson",
+  "bbox": [
+   -88.47227,
+   42.07971,
+   -87.69102,
+   42.49564
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1711",
+  "id": "IL11",
+  "name": "IL11 District",
+  "file": "districts/IL11.geojson",
+  "bbox": [
+   -88.86152,
+   41.6523,
+   -87.9127,
+   42.37097
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1712",
+  "id": "IL12",
+  "name": "IL12 District",
+  "file": "districts/IL12.geojson",
+  "bbox": [
+   -90.3727,
+   36.97076,
+   -87.49591,
+   39.68598
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1713",
+  "id": "IL13",
+  "name": "IL13 District",
+  "file": "districts/IL13.geojson",
+  "bbox": [
+   -90.26413,
+   38.48358,
+   -88.12389,
+   40.17131
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1714",
+  "id": "IL14",
+  "name": "IL14 District",
+  "file": "districts/IL14.geojson",
+  "bbox": [
+   -89.39366,
+   41.19143,
+   -88.019,
+   42.06644
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1715",
+  "id": "IL15",
+  "name": "IL15 District",
+  "file": "districts/IL15.geojson",
+  "bbox": [
+   -91.51309,
+   38.65497,
+   -87.53165,
+   41.33337
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1716",
+  "id": "IL16",
+  "name": "IL16 District",
+  "file": "districts/IL16.geojson",
+  "bbox": [
+   -90.64643,
+   40.28122,
+   -88.24089,
+   42.50849
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1717",
+  "id": "IL17",
+  "name": "IL17 District",
+  "file": "districts/IL17.geojson",
+  "bbox": [
+   -91.07208,
+   40.28093,
+   -88.93359,
+   42.37436
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1801",
+  "id": "IN01",
+  "name": "IN01 District",
+  "file": "districts/IN01.geojson",
+  "bbox": [
+   -87.52654,
+   41.16226,
+   -86.69969,
+   41.7603
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1802",
+  "id": "IN02",
+  "name": "IN02 District",
+  "file": "districts/IN02.geojson",
+  "bbox": [
+   -86.93076,
+   40.56134,
+   -85.63859,
+   41.7607
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1803",
+  "id": "IN03",
+  "name": "IN03 District",
+  "file": "districts/IN03.geojson",
+  "bbox": [
+   -85.76871,
+   40.15009,
+   -84.8021,
+   41.76018
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1804",
+  "id": "IN04",
+  "name": "IN04 District",
+  "file": "districts/IN04.geojson",
+  "bbox": [
+   -87.53137,
+   39.3383,
+   -86.24074,
+   41.28616
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1805",
+  "id": "IN05",
+  "name": "IN05 District",
+  "file": "districts/IN05.geojson",
+  "bbox": [
+   -86.37577,
+   39.92607,
+   -85.21439,
+   40.65361
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1806",
+  "id": "IN06",
+  "name": "IN06 District",
+  "file": "districts/IN06.geojson",
+  "bbox": [
+   -86.32659,
+   39.1289,
+   -84.8065,
+   40.18017
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1807",
+  "id": "IN07",
+  "name": "IN07 District",
+  "file": "districts/IN07.geojson",
+  "bbox": [
+   -86.32659,
+   39.71985,
+   -85.93759,
+   39.92714
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1808",
+  "id": "IN08",
+  "name": "IN08 District",
+  "file": "districts/IN08.geojson",
+  "bbox": [
+   -88.09496,
+   37.77394,
+   -86.25172,
+   40.18642
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "1809",
+  "id": "IN09",
+  "name": "IN09 District",
+  "file": "districts/IN09.geojson",
+  "bbox": [
+   -86.68562,
+   37.96768,
+   -84.79044,
+   39.52687
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2001",
+  "id": "KS01",
+  "name": "KS01 District",
+  "file": "districts/KS01.geojson",
+  "bbox": [
+   -102.05175,
+   36.99302,
+   -95.18013,
+   40.00308
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2002",
+  "id": "KS02",
+  "name": "KS02 District",
+  "file": "districts/KS02.geojson",
+  "bbox": [
+   -97.37192,
+   36.9986,
+   -94.58842,
+   40.00089
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2003",
+  "id": "KS03",
+  "name": "KS03 District",
+  "file": "districts/KS03.geojson",
+  "bbox": [
+   -95.51898,
+   38.03771,
+   -94.60717,
+   39.11619
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2004",
+  "id": "KS04",
+  "name": "KS04 District",
+  "file": "districts/KS04.geojson",
+  "bbox": [
+   -99.57058,
+   36.99797,
+   -95.95814,
+   38.26121
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2101",
+  "id": "KY01",
+  "name": "KY01 District",
+  "file": "districts/KY01.geojson",
+  "bbox": [
+   -89.57073,
+   36.49706,
+   -84.6583,
+   38.37484
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2102",
+  "id": "KY02",
+  "name": "KY02 District",
+  "file": "districts/KY02.geojson",
+  "bbox": [
+   -87.49965,
+   36.72273,
+   -85.35278,
+   38.2897
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2103",
+  "id": "KY03",
+  "name": "KY03 District",
+  "file": "districts/KY03.geojson",
+  "bbox": [
+   -85.94711,
+   38.00508,
+   -85.47626,
+   38.38025
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2104",
+  "id": "KY04",
+  "name": "KY04 District",
+  "file": "districts/KY04.geojson",
+  "bbox": [
+   -85.63782,
+   37.72657,
+   -82.66543,
+   39.14712
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2105",
+  "id": "KY05",
+  "name": "KY05 District",
+  "file": "districts/KY05.geojson",
+  "bbox": [
+   -85.06431,
+   36.5826,
+   -81.96802,
+   38.50579
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2106",
+  "id": "KY06",
+  "name": "KY06 District",
+  "file": "districts/KY06.geojson",
+  "bbox": [
+   -85.07468,
+   37.47267,
+   -83.45285,
+   38.52539
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2201",
+  "id": "LA01",
+  "name": "LA01 District",
+  "file": "districts/LA01.geojson",
+  "bbox": [
+   -90.96135,
+   28.93164,
+   -89.01837,
+   30.71244
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2202",
+  "id": "LA02",
+  "name": "LA02 District",
+  "file": "districts/LA02.geojson",
+  "bbox": [
+   -91.32546,
+   29.69203,
+   -89.77122,
+   30.57926
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2203",
+  "id": "LA03",
+  "name": "LA03 District",
+  "file": "districts/LA03.geojson",
+  "bbox": [
+   -93.92921,
+   29.17582,
+   -90.72257,
+   30.69449
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2204",
+  "id": "LA04",
+  "name": "LA04 District",
+  "file": "districts/LA04.geojson",
+  "bbox": [
+   -94.04,
+   30.05,
+   -92.05,
+   33.02
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2205",
+  "id": "LA05",
+  "name": "LA05 District",
+  "file": "districts/LA05.geojson",
+  "bbox": [
+   -92.97604,
+   30.45239,
+   -89.72694,
+   33.00799
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2206",
+  "id": "LA06",
+  "name": "LA06 District",
+  "file": "districts/LA06.geojson",
+  "bbox": [
+   -91.8073,
+   29.57286,
+   -90.15626,
+   31.02001
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2501",
+  "id": "MA01",
+  "name": "MA01 District",
+  "file": "districts/MA01.geojson",
+  "bbox": [
+   -73.50821,
+   41.99769,
+   -71.81133,
+   42.74509
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2502",
+  "id": "MA02",
+  "name": "MA02 District",
+  "file": "districts/MA02.geojson",
+  "bbox": [
+   -72.90458,
+   42.00806,
+   -71.37602,
+   42.73784
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2503",
+  "id": "MA03",
+  "name": "MA03 District",
+  "file": "districts/MA03.geojson",
+  "bbox": [
+   -72.11663,
+   42.31096,
+   -70.99961,
+   42.83329
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2504",
+  "id": "MA04",
+  "name": "MA04 District",
+  "file": "districts/MA04.geojson",
+  "bbox": [
+   -71.59275,
+   41.60368,
+   -70.89397,
+   42.36658
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2505",
+  "id": "MA05",
+  "name": "MA05 District",
+  "file": "districts/MA05.geojson",
+  "bbox": [
+   -71.49705,
+   42.24908,
+   -70.96805,
+   42.53001
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2506",
+  "id": "MA06",
+  "name": "MA06 District",
+  "file": "districts/MA06.geojson",
+  "bbox": [
+   -71.32012,
+   42.43101,
+   -70.5946,
+   42.88503
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2507",
+  "id": "MA07",
+  "name": "MA07 District",
+  "file": "districts/MA07.geojson",
+  "bbox": [
+   -71.16763,
+   42.1372,
+   -70.99467,
+   42.4229
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2508",
+  "id": "MA08",
+  "name": "MA08 District",
+  "file": "districts/MA08.geojson",
+  "bbox": [
+   -71.2959,
+   41.98272,
+   -70.82702,
+   42.36828
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2509",
+  "id": "MA09",
+  "name": "MA09 District",
+  "file": "districts/MA09.geojson",
+  "bbox": [
+   -71.13835,
+   41.23796,
+   -69.93748,
+   42.26484
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2401",
+  "id": "MD01",
+  "name": "MD01 District",
+  "file": "districts/MD01.geojson",
+  "bbox": [
+   -76.69766,
+   37.91685,
+   -75.05025,
+   39.7222
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2402",
+  "id": "MD02",
+  "name": "MD02 District",
+  "file": "districts/MD02.geojson",
+  "bbox": [
+   -77.29977,
+   39.22939,
+   -76.34935,
+   39.72109
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2403",
+  "id": "MD03",
+  "name": "MD03 District",
+  "file": "districts/MD03.geojson",
+  "bbox": [
+   -77.1868,
+   38.91151,
+   -76.3945,
+   39.44372
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2404",
+  "id": "MD04",
+  "name": "MD04 District",
+  "file": "districts/MD04.geojson",
+  "bbox": [
+   -77.0434,
+   38.69866,
+   -76.76195,
+   39.14584
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2405",
+  "id": "MD05",
+  "name": "MD05 District",
+  "file": "districts/MD05.geojson",
+  "bbox": [
+   -77.27422,
+   38.04966,
+   -76.32014,
+   39.15088
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2406",
+  "id": "MD06",
+  "name": "MD06 District",
+  "file": "districts/MD06.geojson",
+  "bbox": [
+   -79.48727,
+   39.06224,
+   -77.10684,
+   39.72295
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2407",
+  "id": "MD07",
+  "name": "MD07 District",
+  "file": "districts/MD07.geojson",
+  "bbox": [
+   -76.79536,
+   39.20217,
+   -76.41768,
+   39.3722
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2408",
+  "id": "MD08",
+  "name": "MD08 District",
+  "file": "districts/MD08.geojson",
+  "bbox": [
+   -77.34211,
+   38.93434,
+   -76.94564,
+   39.29471
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2301",
+  "id": "ME01",
+  "name": "ME01 District",
+  "file": "districts/ME01.geojson",
+  "bbox": [
+   -70.9891,
+   43.05987,
+   -68.6011,
+   44.72027
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2302",
+  "id": "ME02",
+  "name": "ME02 District",
+  "file": "districts/ME02.geojson",
+  "bbox": [
+   -71.08392,
+   43.78498,
+   -66.97626,
+   47.45969
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2601",
+  "id": "MI01",
+  "name": "MI01 District",
+  "file": "districts/MI01.geojson",
+  "bbox": [
+   -90.41835,
+   43.91049,
+   -83.27339,
+   48.19098
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2602",
+  "id": "MI02",
+  "name": "MI02 District",
+  "file": "districts/MI02.geojson",
+  "bbox": [
+   -86.5385,
+   42.41974,
+   -84.16611,
+   44.51831
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2603",
+  "id": "MI03",
+  "name": "MI03 District",
+  "file": "districts/MI03.geojson",
+  "bbox": [
+   -86.36137,
+   42.76815,
+   -85.42904,
+   43.27221
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2604",
+  "id": "MI04",
+  "name": "MI04 District",
+  "file": "districts/MI04.geojson",
+  "bbox": [
+   -86.5317,
+   42.03773,
+   -85.06116,
+   42.95777
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2605",
+  "id": "MI05",
+  "name": "MI05 District",
+  "file": "districts/MI05.geojson",
+  "bbox": [
+   -86.81392,
+   41.69613,
+   -83.20972,
+   42.42458
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2606",
+  "id": "MI06",
+  "name": "MI06 District",
+  "file": "districts/MI06.geojson",
+  "bbox": [
+   -84.13197,
+   42.042,
+   -83.11923,
+   42.52711
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2607",
+  "id": "MI07",
+  "name": "MI07 District",
+  "file": "districts/MI07.geojson",
+  "bbox": [
+   -85.07382,
+   42.42144,
+   -83.55191,
+   43.13279
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2608",
+  "id": "MI08",
+  "name": "MI08 District",
+  "file": "districts/MI08.geojson",
+  "bbox": [
+   -84.48869,
+   42.78167,
+   -83.4533,
+   43.99698
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2609",
+  "id": "MI09",
+  "name": "MI09 District",
+  "file": "districts/MI09.geojson",
+  "bbox": [
+   -83.69954,
+   42.54818,
+   -82.41348,
+   44.06823
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2610",
+  "id": "MI10",
+  "name": "MI10 District",
+  "file": "districts/MI10.geojson",
+  "bbox": [
+   -83.21403,
+   42.44716,
+   -82.78162,
+   42.71591
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2611",
+  "id": "MI11",
+  "name": "MI11 District",
+  "file": "districts/MI11.geojson",
+  "bbox": [
+   -83.56563,
+   42.43895,
+   -83.0834,
+   42.70953
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2612",
+  "id": "MI12",
+  "name": "MI12 District",
+  "file": "districts/MI12.geojson",
+  "bbox": [
+   -83.43368,
+   42.26747,
+   -83.14078,
+   42.53191
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2613",
+  "id": "MI13",
+  "name": "MI13 District",
+  "file": "districts/MI13.geojson",
+  "bbox": [
+   -83.42744,
+   42.17945,
+   -82.87023,
+   42.45102
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2701",
+  "id": "MN01",
+  "name": "MN01 District",
+  "file": "districts/MN01.geojson",
+  "bbox": [
+   -96.45326,
+   43.49963,
+   -91.21771,
+   44.71435
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2702",
+  "id": "MN02",
+  "name": "MN02 District",
+  "file": "districts/MN02.geojson",
+  "bbox": [
+   -94.02164,
+   44.19584,
+   -92.73205,
+   44.91966
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2703",
+  "id": "MN03",
+  "name": "MN03 District",
+  "file": "districts/MN03.geojson",
+  "bbox": [
+   -93.76839,
+   44.78699,
+   -93.19795,
+   45.24663
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2704",
+  "id": "MN04",
+  "name": "MN04 District",
+  "file": "districts/MN04.geojson",
+  "bbox": [
+   -93.2277,
+   44.86195,
+   -92.75065,
+   45.12454
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2705",
+  "id": "MN05",
+  "name": "MN05 District",
+  "file": "districts/MN05.geojson",
+  "bbox": [
+   -93.4007,
+   44.86201,
+   -93.17855,
+   45.12459
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2706",
+  "id": "MN06",
+  "name": "MN06 District",
+  "file": "districts/MN06.geojson",
+  "bbox": [
+   -94.50615,
+   44.64031,
+   -93.01957,
+   45.82426
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2707",
+  "id": "MN07",
+  "name": "MN07 District",
+  "file": "districts/MN07.geojson",
+  "bbox": [
+   -97.23901,
+   43.84784,
+   -93.76396,
+   49.00046
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2708",
+  "id": "MN08",
+  "name": "MN08 District",
+  "file": "districts/MN08.geojson",
+  "bbox": [
+   -96.06763,
+   45.07895,
+   -89.62453,
+   49.38436
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2901",
+  "id": "MO01",
+  "name": "MO01 District",
+  "file": "districts/MO01.geojson",
+  "bbox": [
+   -90.4892,
+   38.53202,
+   -90.11771,
+   38.88777
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2902",
+  "id": "MO02",
+  "name": "MO02 District",
+  "file": "districts/MO02.geojson",
+  "bbox": [
+   -91.41864,
+   38.20402,
+   -90.25779,
+   38.84638
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2903",
+  "id": "MO03",
+  "name": "MO03 District",
+  "file": "districts/MO03.geojson",
+  "bbox": [
+   -93.05998,
+   37.6972,
+   -90.10921,
+   39.14786
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2904",
+  "id": "MO04",
+  "name": "MO04 District",
+  "file": "districts/MO04.geojson",
+  "bbox": [
+   -94.61794,
+   37.23351,
+   -92.02117,
+   39.40501
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2905",
+  "id": "MO05",
+  "name": "MO05 District",
+  "file": "districts/MO05.geojson",
+  "bbox": [
+   -94.60844,
+   38.83506,
+   -94.2631,
+   39.33316
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2906",
+  "id": "MO06",
+  "name": "MO06 District",
+  "file": "districts/MO06.geojson",
+  "bbox": [
+   -95.77335,
+   38.87087,
+   -90.66319,
+   40.61313
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2907",
+  "id": "MO07",
+  "name": "MO07 District",
+  "file": "districts/MO07.geojson",
+  "bbox": [
+   -94.61866,
+   36.49785,
+   -92.67967,
+   37.42738
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2908",
+  "id": "MO08",
+  "name": "MO08 District",
+  "file": "districts/MO08.geojson",
+  "bbox": [
+   -92.90934,
+   35.99573,
+   -89.09897,
+   38.50146
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2801",
+  "id": "MS01",
+  "name": "MS01 District",
+  "file": "districts/MS01.geojson",
+  "bbox": [
+   -90.30836,
+   33.10887,
+   -88.09789,
+   34.99569
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2802",
+  "id": "MS02",
+  "name": "MS02 District",
+  "file": "districts/MS02.geojson",
+  "bbox": [
+   -91.65497,
+   30.9989,
+   -89.31641,
+   34.88763
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2803",
+  "id": "MS03",
+  "name": "MS03 District",
+  "file": "districts/MS03.geojson",
+  "bbox": [
+   -90.73733,
+   30.99942,
+   -88.30443,
+   33.56513
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "2804",
+  "id": "MS04",
+  "name": "MS04 District",
+  "file": "districts/MS04.geojson",
+  "bbox": [
+   -89.85193,
+   30.18092,
+   -88.39503,
+   31.89385
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3001",
+  "id": "MT01",
+  "name": "MT01 District",
+  "file": "districts/MT01.geojson",
+  "bbox": [
+   -116.04912,
+   44.35798,
+   -110.78385,
+   49.00112
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3002",
+  "id": "MT02",
+  "name": "MT02 District",
+  "file": "districts/MT02.geojson",
+  "bbox": [
+   -113.16582,
+   44.99227,
+   -104.04008,
+   48.99999
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3701",
+  "id": "NC01",
+  "name": "NC01 District",
+  "file": "districts/NC01.geojson",
+  "bbox": [
+   -78.60865,
+   34.67295,
+   -75.52392,
+   36.55215
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3702",
+  "id": "NC02",
+  "name": "NC02 District",
+  "file": "districts/NC02.geojson",
+  "bbox": [
+   -78.86662,
+   35.64483,
+   -78.294,
+   36.01143
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3703",
+  "id": "NC03",
+  "name": "NC03 District",
+  "file": "districts/NC03.geojson",
+  "bbox": [
+   -78.627,
+   34.44087,
+   -77.04725,
+   35.86718
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3704",
+  "id": "NC04",
+  "name": "NC04 District",
+  "file": "districts/NC04.geojson",
+  "bbox": [
+   -79.36591,
+   35.54048,
+   -78.69984,
+   36.24344
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3705",
+  "id": "NC05",
+  "name": "NC05 District",
+  "file": "districts/NC05.geojson",
+  "bbox": [
+   -81.91812,
+   35.75856,
+   -79.51364,
+   36.58813
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3706",
+  "id": "NC06",
+  "name": "NC06 District",
+  "file": "districts/NC06.geojson",
+  "bbox": [
+   -80.78686,
+   35.36279,
+   -79.81459,
+   36.25851
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3707",
+  "id": "NC07",
+  "name": "NC07 District",
+  "file": "districts/NC07.geojson",
+  "bbox": [
+   -79.16671,
+   33.84315,
+   -77.51838,
+   35.31641
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3708",
+  "id": "NC08",
+  "name": "NC08 District",
+  "file": "districts/NC08.geojson",
+  "bbox": [
+   -80.85332,
+   34.33093,
+   -78.94245,
+   35.51148
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3709",
+  "id": "NC09",
+  "name": "NC09 District",
+  "file": "districts/NC09.geojson",
+  "bbox": [
+   -80.06684,
+   34.83371,
+   -78.89893,
+   36.25178
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3710",
+  "id": "NC10",
+  "name": "NC10 District",
+  "file": "districts/NC10.geojson",
+  "bbox": [
+   -81.5376,
+   35.40007,
+   -80.11793,
+   36.28558
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3711",
+  "id": "NC11",
+  "name": "NC11 District",
+  "file": "districts/NC11.geojson",
+  "bbox": [
+   -84.31901,
+   34.98664,
+   -81.73567,
+   36.28713
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3712",
+  "id": "NC12",
+  "name": "NC12 District",
+  "file": "districts/NC12.geojson",
+  "bbox": [
+   -80.98113,
+   35.05997,
+   -80.59973,
+   35.4002
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3713",
+  "id": "NC13",
+  "name": "NC13 District",
+  "file": "districts/NC13.geojson",
+  "bbox": [
+   -79.53186,
+   35.19201,
+   -78.00655,
+   36.54254
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3714",
+  "id": "NC14",
+  "name": "NC14 District",
+  "file": "districts/NC14.geojson",
+  "bbox": [
+   -82.31354,
+   35.00169,
+   -80.75216,
+   35.99991
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3800",
+  "id": "ND00",
+  "name": "ND00 District",
+  "file": "districts/ND00.geojson",
+  "bbox": [
+   -104.049,
+   45.93509,
+   -96.55674,
+   49.00047
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3101",
+  "id": "NE01",
+  "name": "NE01 District",
+  "file": "districts/NE01.geojson",
+  "bbox": [
+   -97.83431,
+   40.52302,
+   -95.81209,
+   42.09058
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3102",
+  "id": "NE02",
+  "name": "NE02 District",
+  "file": "districts/NE02.geojson",
+  "bbox": [
+   -96.90912,
+   40.99564,
+   -95.87749,
+   41.4534
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3103",
+  "id": "NE03",
+  "name": "NE03 District",
+  "file": "districts/NE03.geojson",
+  "bbox": [
+   -104.05325,
+   40.00001,
+   -95.3083,
+   43.00059
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3301",
+  "id": "NH01",
+  "name": "NH01 District",
+  "file": "districts/NH01.geojson",
+  "bbox": [
+   -71.70635,
+   42.79076,
+   -70.70368,
+   44.28491
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3302",
+  "id": "NH02",
+  "name": "NH02 District",
+  "file": "districts/NH02.geojson",
+  "bbox": [
+   -72.55381,
+   42.69705,
+   -71.00998,
+   45.30545
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3401",
+  "id": "NJ01",
+  "name": "NJ01 District",
+  "file": "districts/NJ01.geojson",
+  "bbox": [
+   -75.25676,
+   39.57846,
+   -74.73622,
+   40.01619
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3402",
+  "id": "NJ02",
+  "name": "NJ02 District",
+  "file": "districts/NJ02.geojson",
+  "bbox": [
+   -75.55944,
+   38.92852,
+   -74.0768,
+   39.94147
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3403",
+  "id": "NJ03",
+  "name": "NJ03 District",
+  "file": "districts/NJ03.geojson",
+  "bbox": [
+   -75.03058,
+   39.55146,
+   -74.13316,
+   40.42686
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3404",
+  "id": "NJ04",
+  "name": "NJ04 District",
+  "file": "districts/NJ04.geojson",
+  "bbox": [
+   -74.55311,
+   39.79626,
+   -73.99984,
+   40.43941
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3405",
+  "id": "NJ05",
+  "name": "NJ05 District",
+  "file": "districts/NJ05.geojson",
+  "bbox": [
+   -74.8721,
+   40.82783,
+   -73.89398,
+   41.35761
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3406",
+  "id": "NJ06",
+  "name": "NJ06 District",
+  "file": "districts/NJ06.geojson",
+  "bbox": [
+   -74.51984,
+   40.18153,
+   -73.97628,
+   40.60868
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3407",
+  "id": "NJ07",
+  "name": "NJ07 District",
+  "file": "districts/NJ07.geojson",
+  "bbox": [
+   -75.20392,
+   40.34168,
+   -74.20151,
+   41.20125
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3408",
+  "id": "NJ08",
+  "name": "NJ08 District",
+  "file": "districts/NJ08.geojson",
+  "bbox": [
+   -74.25422,
+   40.63401,
+   -73.98484,
+   40.81565
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3409",
+  "id": "NJ09",
+  "name": "NJ09 District",
+  "file": "districts/NJ09.geojson",
+  "bbox": [
+   -74.30003,
+   40.76572,
+   -73.95419,
+   41.06361
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3410",
+  "id": "NJ10",
+  "name": "NJ10 District",
+  "file": "districts/NJ10.geojson",
+  "bbox": [
+   -74.32796,
+   40.62548,
+   -74.0555,
+   40.84962
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3411",
+  "id": "NJ11",
+  "name": "NJ11 District",
+  "file": "districts/NJ11.geojson",
+  "bbox": [
+   -74.64445,
+   40.69775,
+   -74.13026,
+   41.05849
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3412",
+  "id": "NJ12",
+  "name": "NJ12 District",
+  "file": "districts/NJ12.geojson",
+  "bbox": [
+   -74.94291,
+   40.18384,
+   -74.26186,
+   40.64421
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3501",
+  "id": "NM01",
+  "name": "NM01 District",
+  "file": "districts/NM01.geojson",
+  "bbox": [
+   -106.97567,
+   33.00272,
+   -103.71689,
+   35.4616
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3502",
+  "id": "NM02",
+  "name": "NM02 District",
+  "file": "districts/NM02.geojson",
+  "bbox": [
+   -109.05004,
+   31.3325,
+   -103.06452,
+   35.34832
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3503",
+  "id": "NM03",
+  "name": "NM03 District",
+  "file": "districts/NM03.geojson",
+  "bbox": [
+   -109.04696,
+   32.69657,
+   -103.00216,
+   37.00019
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3201",
+  "id": "NV01",
+  "name": "NV01 District",
+  "file": "districts/NV01.geojson",
+  "bbox": [
+   -115.20789,
+   35.58832,
+   -114.65394,
+   36.20335
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3202",
+  "id": "NV02",
+  "name": "NV02 District",
+  "file": "districts/NV02.geojson",
+  "bbox": [
+   -120.00649,
+   38.53512,
+   -114.03947,
+   42.0018
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3203",
+  "id": "NV03",
+  "name": "NV03 District",
+  "file": "districts/NV03.geojson",
+  "bbox": [
+   -115.846,
+   35.00186,
+   -114.56924,
+   36.3209
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3204",
+  "id": "NV04",
+  "name": "NV04 District",
+  "file": "districts/NV04.geojson",
+  "bbox": [
+   -119.33103,
+   35.96366,
+   -114.04315,
+   39.26518
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3601",
+  "id": "NY01",
+  "name": "NY01 District",
+  "file": "districts/NY01.geojson",
+  "bbox": [
+   -73.45162,
+   40.74963,
+   -71.85648,
+   41.13995
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3602",
+  "id": "NY02",
+  "name": "NY02 District",
+  "file": "districts/NY02.geojson",
+  "bbox": [
+   -73.48492,
+   40.59739,
+   -72.80783,
+   40.85097
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3603",
+  "id": "NY03",
+  "name": "NY03 District",
+  "file": "districts/NY03.geojson",
+  "bbox": [
+   -73.82624,
+   40.70277,
+   -73.38888,
+   40.9464
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3604",
+  "id": "NY04",
+  "name": "NY04 District",
+  "file": "districts/NY04.geojson",
+  "bbox": [
+   -73.76742,
+   40.57826,
+   -73.48425,
+   40.75143
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3605",
+  "id": "NY05",
+  "name": "NY05 District",
+  "file": "districts/NY05.geojson",
+  "bbox": [
+   -73.87922,
+   40.57466,
+   -73.72525,
+   40.73019
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3606",
+  "id": "NY06",
+  "name": "NY06 District",
+  "file": "districts/NY06.geojson",
+  "bbox": [
+   -73.90647,
+   40.70769,
+   -73.75671,
+   40.77992
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3607",
+  "id": "NY07",
+  "name": "NY07 District",
+  "file": "districts/NY07.geojson",
+  "bbox": [
+   -73.97736,
+   40.67031,
+   -73.85668,
+   40.76753
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3608",
+  "id": "NY08",
+  "name": "NY08 District",
+  "file": "districts/NY08.geojson",
+  "bbox": [
+   -73.99837,
+   40.57063,
+   -73.83304,
+   40.69864
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3609",
+  "id": "NY09",
+  "name": "NY09 District",
+  "file": "districts/NY09.geojson",
+  "bbox": [
+   -73.99724,
+   40.59662,
+   -73.91966,
+   40.67938
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3610",
+  "id": "NY10",
+  "name": "NY10 District",
+  "file": "districts/NY10.geojson",
+  "bbox": [
+   -74.0471,
+   40.62529,
+   -73.9619,
+   40.74418
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3611",
+  "id": "NY11",
+  "name": "NY11 District",
+  "file": "districts/NY11.geojson",
+  "bbox": [
+   -74.25563,
+   40.4961,
+   -73.97651,
+   40.64817
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3612",
+  "id": "NY12",
+  "name": "NY12 District",
+  "file": "districts/NY12.geojson",
+  "bbox": [
+   -74.01728,
+   40.72275,
+   -73.93441,
+   40.81627
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3613",
+  "id": "NY13",
+  "name": "NY13 District",
+  "file": "districts/NY13.geojson",
+  "bbox": [
+   -73.97115,
+   40.77809,
+   -73.88038,
+   40.88221
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3614",
+  "id": "NY14",
+  "name": "NY14 District",
+  "file": "districts/NY14.geojson",
+  "bbox": [
+   -73.94046,
+   40.75,
+   -73.79298,
+   40.88335
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3615",
+  "id": "NY15",
+  "name": "NY15 District",
+  "file": "districts/NY15.geojson",
+  "bbox": [
+   -73.93379,
+   40.80788,
+   -73.83037,
+   40.9177
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3616",
+  "id": "NY16",
+  "name": "NY16 District",
+  "file": "districts/NY16.geojson",
+  "bbox": [
+   -73.91832,
+   40.86447,
+   -73.65526,
+   41.08546
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3617",
+  "id": "NY17",
+  "name": "NY17 District",
+  "file": "districts/NY17.geojson",
+  "bbox": [
+   -74.23319,
+   40.99717,
+   -73.4827,
+   41.63381
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3618",
+  "id": "NY18",
+  "name": "NY18 District",
+  "file": "districts/NY18.geojson",
+  "bbox": [
+   -74.76247,
+   41.14255,
+   -73.48732,
+   42.17699
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3619",
+  "id": "NY19",
+  "name": "NY19 District",
+  "file": "districts/NY19.geojson",
+  "bbox": [
+   -76.69666,
+   41.42285,
+   -73.2651,
+   42.90836
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3620",
+  "id": "NY20",
+  "name": "NY20 District",
+  "file": "districts/NY20.geojson",
+  "bbox": [
+   -74.30533,
+   42.40821,
+   -73.27429,
+   43.14916
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3621",
+  "id": "NY21",
+  "name": "NY21 District",
+  "file": "districts/NY21.geojson",
+  "bbox": [
+   -75.88676,
+   42.35502,
+   -73.24684,
+   45.01585
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3622",
+  "id": "NY22",
+  "name": "NY22 District",
+  "file": "districts/NY22.geojson",
+  "bbox": [
+   -76.74006,
+   42.54342,
+   -75.16091,
+   43.24667
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3623",
+  "id": "NY23",
+  "name": "NY23 District",
+  "file": "districts/NY23.geojson",
+  "bbox": [
+   -79.76196,
+   41.99771,
+   -76.08113,
+   43.15154
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3624",
+  "id": "NY24",
+  "name": "NY24 District",
+  "file": "districts/NY24.geojson",
+  "bbox": [
+   -79.05606,
+   42.36296,
+   -75.60367,
+   44.40326
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3625",
+  "id": "NY25",
+  "name": "NY25 District",
+  "file": "districts/NY25.geojson",
+  "bbox": [
+   -77.99729,
+   42.89769,
+   -77.37024,
+   43.36524
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3626",
+  "id": "NY26",
+  "name": "NY26 District",
+  "file": "districts/NY26.geojson",
+  "bbox": [
+   -79.07446,
+   42.80386,
+   -78.69691,
+   43.1331
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3901",
+  "id": "OH01",
+  "name": "OH01 District",
+  "file": "districts/OH01.geojson",
+  "bbox": [
+   -84.82018,
+   39.02154,
+   -83.57629,
+   39.58958
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3902",
+  "id": "OH02",
+  "name": "OH02 District",
+  "file": "districts/OH02.geojson",
+  "bbox": [
+   -84.31998,
+   38.40416,
+   -81.03679,
+   39.77096
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3903",
+  "id": "OH03",
+  "name": "OH03 District",
+  "file": "districts/OH03.geojson",
+  "bbox": [
+   -83.09651,
+   39.91499,
+   -82.76183,
+   40.13828
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3904",
+  "id": "OH04",
+  "name": "OH04 District",
+  "file": "districts/OH04.geojson",
+  "bbox": [
+   -84.8042,
+   39.85889,
+   -82.33696,
+   40.99032
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3905",
+  "id": "OH05",
+  "name": "OH05 District",
+  "file": "districts/OH05.geojson",
+  "bbox": [
+   -83.88323,
+   40.68715,
+   -81.87696,
+   41.60187
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3906",
+  "id": "OH06",
+  "name": "OH06 District",
+  "file": "districts/OH06.geojson",
+  "bbox": [
+   -82.12689,
+   39.84998,
+   -80.51882,
+   41.13406
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3907",
+  "id": "OH07",
+  "name": "OH07 District",
+  "file": "districts/OH07.geojson",
+  "bbox": [
+   -82.43692,
+   40.555,
+   -81.39169,
+   41.50495
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3908",
+  "id": "OH08",
+  "name": "OH08 District",
+  "file": "districts/OH08.geojson",
+  "bbox": [
+   -84.82028,
+   39.10543,
+   -84.141,
+   40.35426
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3909",
+  "id": "OH09",
+  "name": "OH09 District",
+  "file": "districts/OH09.geojson",
+  "bbox": [
+   -84.80597,
+   40.8591,
+   -82.34234,
+   41.73284
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3910",
+  "id": "OH10",
+  "name": "OH10 District",
+  "file": "districts/OH10.geojson",
+  "bbox": [
+   -84.48565,
+   39.42883,
+   -83.64661,
+   39.92297
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3911",
+  "id": "OH11",
+  "name": "OH11 District",
+  "file": "districts/OH11.geojson",
+  "bbox": [
+   -81.85347,
+   41.3726,
+   -81.39101,
+   41.63135
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3912",
+  "id": "OH12",
+  "name": "OH12 District",
+  "file": "districts/OH12.geojson",
+  "bbox": [
+   -83.11994,
+   39.5399,
+   -80.82129,
+   40.66836
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3913",
+  "id": "OH13",
+  "name": "OH13 District",
+  "file": "districts/OH13.geojson",
+  "bbox": [
+   -81.68849,
+   40.72606,
+   -81.29852,
+   41.35116
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3914",
+  "id": "OH14",
+  "name": "OH14 District",
+  "file": "districts/OH14.geojson",
+  "bbox": [
+   -81.48864,
+   40.98766,
+   -80.51879,
+   41.97716
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "3915",
+  "id": "OH15",
+  "name": "OH15 District",
+  "file": "districts/OH15.geojson",
+  "bbox": [
+   -84.43257,
+   39.01889,
+   -82.73152,
+   40.19881
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4001",
+  "id": "OK01",
+  "name": "OK01 District",
+  "file": "districts/OK01.geojson",
+  "bbox": [
+   -96.29791,
+   35.76556,
+   -95.40221,
+   36.42369
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4002",
+  "id": "OK02",
+  "name": "OK02 District",
+  "file": "districts/OK02.geojson",
+  "bbox": [
+   -96.96974,
+   33.62067,
+   -94.43101,
+   36.99946
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4003",
+  "id": "OK03",
+  "name": "OK03 District",
+  "file": "districts/OK03.geojson",
+  "bbox": [
+   -103.00241,
+   34.33828,
+   -96.00068,
+   37.00199
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4004",
+  "id": "OK04",
+  "name": "OK04 District",
+  "file": "districts/OK04.geojson",
+  "bbox": [
+   -99.23806,
+   33.71704,
+   -96.40614,
+   35.4932
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4005",
+  "id": "OK05",
+  "name": "OK05 District",
+  "file": "districts/OK05.geojson",
+  "bbox": [
+   -97.8341,
+   34.85678,
+   -96.44128,
+   36.01088
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4101",
+  "id": "OR01",
+  "name": "OR01 District",
+  "file": "districts/OR01.geojson",
+  "bbox": [
+   -124.01216,
+   45.04444,
+   -122.62295,
+   46.26914
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4102",
+  "id": "OR02",
+  "name": "OR02 District",
+  "file": "districts/OR02.geojson",
+  "bbox": [
+   -124.04159,
+   41.99216,
+   -116.46365,
+   46.00062
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4103",
+  "id": "OR03",
+  "name": "OR03 District",
+  "file": "districts/OR03.geojson",
+  "bbox": [
+   -122.79102,
+   45.20333,
+   -121.44066,
+   45.72494
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4104",
+  "id": "OR04",
+  "name": "OR04 District",
+  "file": "districts/OR04.geojson",
+  "bbox": [
+   -124.5593,
+   41.99562,
+   -121.76808,
+   45.045
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4105",
+  "id": "OR05",
+  "name": "OR05 District",
+  "file": "districts/OR05.geojson",
+  "bbox": [
+   -123.24076,
+   43.7944,
+   -121.10279,
+   45.47917
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4106",
+  "id": "OR06",
+  "name": "OR06 District",
+  "file": "districts/OR06.geojson",
+  "bbox": [
+   -123.78455,
+   44.68905,
+   -122.71936,
+   45.48709
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4201",
+  "id": "PA01",
+  "name": "PA01 District",
+  "file": "districts/PA01.geojson",
+  "bbox": [
+   -75.56928,
+   40.0486,
+   -74.72152,
+   40.60859
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4202",
+  "id": "PA02",
+  "name": "PA02 District",
+  "file": "districts/PA02.geojson",
+  "bbox": [
+   -75.1652,
+   39.94329,
+   -74.95884,
+   40.138
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4203",
+  "id": "PA03",
+  "name": "PA03 District",
+  "file": "districts/PA03.geojson",
+  "bbox": [
+   -75.26443,
+   39.91479,
+   -75.12887,
+   40.09292
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4204",
+  "id": "PA04",
+  "name": "PA04 District",
+  "file": "districts/PA04.geojson",
+  "bbox": [
+   -76.08149,
+   39.99614,
+   -75.01507,
+   40.59704
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4205",
+  "id": "PA05",
+  "name": "PA05 District",
+  "file": "districts/PA05.geojson",
+  "bbox": [
+   -75.59792,
+   39.80193,
+   -75.12825,
+   40.14176
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4206",
+  "id": "PA06",
+  "name": "PA06 District",
+  "file": "districts/PA06.geojson",
+  "bbox": [
+   -76.13549,
+   39.72115,
+   -75.39263,
+   40.36918
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4207",
+  "id": "PA07",
+  "name": "PA07 District",
+  "file": "districts/PA07.geojson",
+  "bbox": [
+   -75.99764,
+   40.41846,
+   -75.05366,
+   41.13399
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4208",
+  "id": "PA08",
+  "name": "PA08 District",
+  "file": "districts/PA08.geojson",
+  "bbox": [
+   -76.11853,
+   40.86239,
+   -74.69411,
+   41.99955
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4209",
+  "id": "PA09",
+  "name": "PA09 District",
+  "file": "districts/PA09.geojson",
+  "bbox": [
+   -77.05472,
+   40.19608,
+   -75.46224,
+   42.00158
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4210",
+  "id": "PA10",
+  "name": "PA10 District",
+  "file": "districts/PA10.geojson",
+  "bbox": [
+   -77.45174,
+   39.86569,
+   -76.53542,
+   40.65802
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4211",
+  "id": "PA11",
+  "name": "PA11 District",
+  "file": "districts/PA11.geojson",
+  "bbox": [
+   -77.00031,
+   39.72011,
+   -75.87516,
+   40.3157
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4212",
+  "id": "PA12",
+  "name": "PA12 District",
+  "file": "districts/PA12.geojson",
+  "bbox": [
+   -80.11628,
+   40.19485,
+   -79.57762,
+   40.54932
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4213",
+  "id": "PA13",
+  "name": "PA13 District",
+  "file": "districts/PA13.geojson",
+  "bbox": [
+   -79.05665,
+   39.71989,
+   -76.91497,
+   40.84449
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4214",
+  "id": "PA14",
+  "name": "PA14 District",
+  "file": "districts/PA14.geojson",
+  "bbox": [
+   -80.51935,
+   39.72068,
+   -78.65831,
+   40.83931
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4215",
+  "id": "PA15",
+  "name": "PA15 District",
+  "file": "districts/PA15.geojson",
+  "bbox": [
+   -79.91065,
+   40.52489,
+   -76.77244,
+   42.00158
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4216",
+  "id": "PA16",
+  "name": "PA16 District",
+  "file": "districts/PA16.geojson",
+  "bbox": [
+   -80.51943,
+   40.66962,
+   -79.61084,
+   42.26941
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4217",
+  "id": "PA17",
+  "name": "PA17 District",
+  "file": "districts/PA17.geojson",
+  "bbox": [
+   -80.51912,
+   40.31267,
+   -79.68898,
+   40.8551
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4401",
+  "id": "RI01",
+  "name": "RI01 District",
+  "file": "districts/RI01.geojson",
+  "bbox": [
+   -71.60673,
+   41.4564,
+   -71.12057,
+   42.01881
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4402",
+  "id": "RI02",
+  "name": "RI02 District",
+  "file": "districts/RI02.geojson",
+  "bbox": [
+   -71.86051,
+   41.14693,
+   -71.36441,
+   42.01329
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4501",
+  "id": "SC01",
+  "name": "SC01 District",
+  "file": "districts/SC01.geojson",
+  "bbox": [
+   -81.01815,
+   32.08103,
+   -79.27804,
+   33.50573
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4502",
+  "id": "SC02",
+  "name": "SC02 District",
+  "file": "districts/SC02.geojson",
+  "bbox": [
+   -82.01247,
+   33.09406,
+   -80.61387,
+   34.26877
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4503",
+  "id": "SC03",
+  "name": "SC03 District",
+  "file": "districts/SC03.geojson",
+  "bbox": [
+   -83.3527,
+   33.53212,
+   -81.31691,
+   35.08562
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4504",
+  "id": "SC04",
+  "name": "SC04 District",
+  "file": "districts/SC04.geojson",
+  "bbox": [
+   -82.76416,
+   34.5925,
+   -81.7141,
+   35.21533
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4505",
+  "id": "SC05",
+  "name": "SC05 District",
+  "file": "districts/SC05.geojson",
+  "bbox": [
+   -82.11167,
+   33.64392,
+   -80.0006,
+   35.19131
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4506",
+  "id": "SC06",
+  "name": "SC06 District",
+  "file": "districts/SC06.geojson",
+  "bbox": [
+   -81.61404,
+   32.04195,
+   -79.32432,
+   34.16627
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4507",
+  "id": "SC07",
+  "name": "SC07 District",
+  "file": "districts/SC07.geojson",
+  "bbox": [
+   -80.56171,
+   33.11021,
+   -78.54719,
+   34.81744
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4600",
+  "id": "SD00",
+  "name": "SD00 District",
+  "file": "districts/SD00.geojson",
+  "bbox": [
+   -104.0577,
+   42.48275,
+   -96.43657,
+   45.94531
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4701",
+  "id": "TN01",
+  "name": "TN01 District",
+  "file": "districts/TN01.geojson",
+  "bbox": [
+   -83.79428,
+   35.5627,
+   -81.6469,
+   36.61621
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4702",
+  "id": "TN02",
+  "name": "TN02 District",
+  "file": "districts/TN02.geojson",
+  "bbox": [
+   -84.58441,
+   35.46375,
+   -83.25529,
+   36.60078
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4703",
+  "id": "TN03",
+  "name": "TN03 District",
+  "file": "districts/TN03.geojson",
+  "bbox": [
+   -85.47492,
+   34.98292,
+   -83.94379,
+   36.27928
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4704",
+  "id": "TN04",
+  "name": "TN04 District",
+  "file": "districts/TN04.geojson",
+  "bbox": [
+   -86.77178,
+   34.98302,
+   -84.91606,
+   36.16869
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4705",
+  "id": "TN05",
+  "name": "TN05 District",
+  "file": "districts/TN05.geojson",
+  "bbox": [
+   -90.31012,
+   34.99468,
+   -86.80763,
+   36.67825
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4706",
+  "id": "TN06",
+  "name": "TN06 District",
+  "file": "districts/TN06.geojson",
+  "bbox": [
+   -86.88521,
+   35.74628,
+   -84.06962,
+   36.62683
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4707",
+  "id": "TN07",
+  "name": "TN07 District",
+  "file": "districts/TN07.geojson",
+  "bbox": [
+   -87.62607,
+   35.95918,
+   -85.788,
+   36.65244
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4708",
+  "id": "TN08",
+  "name": "TN08 District",
+  "file": "districts/TN08.geojson",
+  "bbox": [
+   -89.97945,
+   35.04705,
+   -87.6519,
+   36.20468
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4709",
+  "id": "TN09",
+  "name": "TN09 District",
+  "file": "districts/TN09.geojson",
+  "bbox": [
+   -90.05648,
+   34.99049,
+   -86.24164,
+   36.04467
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4801",
+  "id": "TX01",
+  "name": "TX01 District",
+  "file": "districts/TX01.geojson",
+  "bbox": [
+   -95.59517,
+   31.09928,
+   -93.59526,
+   33.59431
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4802",
+  "id": "TX02",
+  "name": "TX02 District",
+  "file": "districts/TX02.geojson",
+  "bbox": [
+   -95.6007,
+   29.87683,
+   -95.05684,
+   30.34479
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4803",
+  "id": "TX03",
+  "name": "TX03 District",
+  "file": "districts/TX03.geojson",
+  "bbox": [
+   -96.7679,
+   32.87918,
+   -94.65226,
+   33.4918
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4804",
+  "id": "TX04",
+  "name": "TX04 District",
+  "file": "districts/TX04.geojson",
+  "bbox": [
+   -96.94461,
+   32.9863,
+   -94.19082,
+   33.96259
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4805",
+  "id": "TX05",
+  "name": "TX05 District",
+  "file": "districts/TX05.geojson",
+  "bbox": [
+   -96.78026,
+   31.50406,
+   -95.27332,
+   32.91723
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4806",
+  "id": "TX06",
+  "name": "TX06 District",
+  "file": "districts/TX06.geojson",
+  "bbox": [
+   -97.38655,
+   31.79619,
+   -96.05483,
+   32.90237
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4807",
+  "id": "TX07",
+  "name": "TX07 District",
+  "file": "districts/TX07.geojson",
+  "bbox": [
+   -95.77547,
+   29.5376,
+   -95.353,
+   29.81321
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4808",
+  "id": "TX08",
+  "name": "TX08 District",
+  "file": "districts/TX08.geojson",
+  "bbox": [
+   -96.19171,
+   29.68851,
+   -95.21004,
+   30.78421
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4809",
+  "id": "TX09",
+  "name": "TX09 District",
+  "file": "districts/TX09.geojson",
+  "bbox": [
+   -95.33332,
+   29.6277,
+   -94.44223,
+   30.49001
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4810",
+  "id": "TX10",
+  "name": "TX10 District",
+  "file": "districts/TX10.geojson",
+  "bbox": [
+   -98.17298,
+   30.032,
+   -94.53793,
+   31.65343
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4811",
+  "id": "TX11",
+  "name": "TX11 District",
+  "file": "districts/TX11.geojson",
+  "bbox": [
+   -102.79909,
+   30.28665,
+   -97.46692,
+   32.08719
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4812",
+  "id": "TX12",
+  "name": "TX12 District",
+  "file": "districts/TX12.geojson",
+  "bbox": [
+   -98.06437,
+   32.5695,
+   -97.23601,
+   33.00333
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4813",
+  "id": "TX13",
+  "name": "TX13 District",
+  "file": "districts/TX13.geojson",
+  "bbox": [
+   -103.04298,
+   33.13214,
+   -97.01982,
+   36.50068
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4814",
+  "id": "TX14",
+  "name": "TX14 District",
+  "file": "districts/TX14.geojson",
+  "bbox": [
+   -95.59784,
+   29.09297,
+   -93.69285,
+   30.24432
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4815",
+  "id": "TX15",
+  "name": "TX15 District",
+  "file": "districts/TX15.geojson",
+  "bbox": [
+   -98.53665,
+   26.04127,
+   -96.56055,
+   29.78466
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4816",
+  "id": "TX16",
+  "name": "TX16 District",
+  "file": "districts/TX16.geojson",
+  "bbox": [
+   -106.63732,
+   31.60104,
+   -106.18066,
+   32.00101
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4817",
+  "id": "TX17",
+  "name": "TX17 District",
+  "file": "districts/TX17.geojson",
+  "bbox": [
+   -98.00545,
+   30.40284,
+   -95.7873,
+   32.34538
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4818",
+  "id": "TX18",
+  "name": "TX18 District",
+  "file": "districts/TX18.geojson",
+  "bbox": [
+   -95.59778,
+   29.49964,
+   -95.18517,
+   29.94087
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4819",
+  "id": "TX19",
+  "name": "TX19 District",
+  "file": "districts/TX19.geojson",
+  "bbox": [
+   -103.06462,
+   32.07987,
+   -98.95087,
+   34.74819
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4820",
+  "id": "TX20",
+  "name": "TX20 District",
+  "file": "districts/TX20.geojson",
+  "bbox": [
+   -98.74918,
+   29.38371,
+   -98.31017,
+   29.54366
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4821",
+  "id": "TX21",
+  "name": "TX21 District",
+  "file": "districts/TX21.geojson",
+  "bbox": [
+   -100.05528,
+   29.44462,
+   -97.87507,
+   30.5021
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4822",
+  "id": "TX22",
+  "name": "TX22 District",
+  "file": "districts/TX22.geojson",
+  "bbox": [
+   -96.06213,
+   28.82557,
+   -95.05693,
+   29.87515
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4823",
+  "id": "TX23",
+  "name": "TX23 District",
+  "file": "districts/TX23.geojson",
+  "bbox": [
+   -106.40924,
+   28.62969,
+   -98.44347,
+   32.08921
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4824",
+  "id": "TX24",
+  "name": "TX24 District",
+  "file": "districts/TX24.geojson",
+  "bbox": [
+   -97.31688,
+   32.79418,
+   -96.76991,
+   32.99124
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4825",
+  "id": "TX25",
+  "name": "TX25 District",
+  "file": "districts/TX25.geojson",
+  "bbox": [
+   -99.63141,
+   31.68399,
+   -97.03384,
+   33.46713
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4826",
+  "id": "TX26",
+  "name": "TX26 District",
+  "file": "districts/TX26.geojson",
+  "bbox": [
+   -97.92164,
+   32.9875,
+   -96.83411,
+   33.95599
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4827",
+  "id": "TX27",
+  "name": "TX27 District",
+  "file": "districts/TX27.geojson",
+  "bbox": [
+   -98.04597,
+   27.61892,
+   -95.50725,
+   30.40888
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4828",
+  "id": "TX28",
+  "name": "TX28 District",
+  "file": "districts/TX28.geojson",
+  "bbox": [
+   -100.50189,
+   26.11733,
+   -97.80877,
+   29.2505
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4829",
+  "id": "TX29",
+  "name": "TX29 District",
+  "file": "districts/TX29.geojson",
+  "bbox": [
+   -95.56328,
+   29.79501,
+   -95.2066,
+   30.04148
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4830",
+  "id": "TX30",
+  "name": "TX30 District",
+  "file": "districts/TX30.geojson",
+  "bbox": [
+   -97.14227,
+   32.54528,
+   -96.5297,
+   32.79211
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4831",
+  "id": "TX31",
+  "name": "TX31 District",
+  "file": "districts/TX31.geojson",
+  "bbox": [
+   -98.9946,
+   30.50834,
+   -97.22118,
+   32.01788
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4832",
+  "id": "TX32",
+  "name": "TX32 District",
+  "file": "districts/TX32.geojson",
+  "bbox": [
+   -96.93908,
+   32.52191,
+   -94.70179,
+   33.07502
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4833",
+  "id": "TX33",
+  "name": "TX33 District",
+  "file": "districts/TX33.geojson",
+  "bbox": [
+   -97.03657,
+   32.61837,
+   -96.55552,
+   32.94748
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4834",
+  "id": "TX34",
+  "name": "TX34 District",
+  "file": "districts/TX34.geojson",
+  "bbox": [
+   -98.0598,
+   25.83738,
+   -97.14724,
+   27.99224
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4835",
+  "id": "TX35",
+  "name": "TX35 District",
+  "file": "districts/TX35.geojson",
+  "bbox": [
+   -98.80419,
+   28.66803,
+   -97.57464,
+   29.85821
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4836",
+  "id": "TX36",
+  "name": "TX36 District",
+  "file": "districts/TX36.geojson",
+  "bbox": [
+   -95.4463,
+   29.49734,
+   -93.50896,
+   31.52692
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4837",
+  "id": "TX37",
+  "name": "TX37 District",
+  "file": "districts/TX37.geojson",
+  "bbox": [
+   -97.90981,
+   30.11232,
+   -97.50059,
+   30.44051
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4838",
+  "id": "TX38",
+  "name": "TX38 District",
+  "file": "districts/TX38.geojson",
+  "bbox": [
+   -95.81575,
+   29.73712,
+   -95.44816,
+   30.13689
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4901",
+  "id": "UT01",
+  "name": "UT01 District",
+  "file": "districts/UT01.geojson",
+  "bbox": [
+   -112.26023,
+   40.52815,
+   -111.55328,
+   40.92185
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4902",
+  "id": "UT02",
+  "name": "UT02 District",
+  "file": "districts/UT02.geojson",
+  "bbox": [
+   -114.04204,
+   40.7691,
+   -111.04601,
+   42.00171
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4903",
+  "id": "UT03",
+  "name": "UT03 District",
+  "file": "districts/UT03.geojson",
+  "bbox": [
+   -114.0529,
+   36.99766,
+   -109.04162,
+   41.37401
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "4904",
+  "id": "UT04",
+  "name": "UT04 District",
+  "file": "districts/UT04.geojson",
+  "bbox": [
+   -114.04999,
+   38.5021,
+   -111.24751,
+   41.07689
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5101",
+  "id": "VA01",
+  "name": "VA01 District",
+  "file": "districts/VA01.geojson",
+  "bbox": [
+   -77.87756,
+   37.09179,
+   -76.23687,
+   38.27614
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5102",
+  "id": "VA02",
+  "name": "VA02 District",
+  "file": "districts/VA02.geojson",
+  "bbox": [
+   -77.10303,
+   36.54389,
+   -75.24247,
+   38.02703
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5103",
+  "id": "VA03",
+  "name": "VA03 District",
+  "file": "districts/VA03.geojson",
+  "bbox": [
+   -76.6255,
+   36.74337,
+   -76.17691,
+   37.22055
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5104",
+  "id": "VA04",
+  "name": "VA04 District",
+  "file": "districts/VA04.geojson",
+  "bbox": [
+   -78.04627,
+   36.54356,
+   -76.66377,
+   37.65948
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5105",
+  "id": "VA05",
+  "name": "VA05 District",
+  "file": "districts/VA05.geojson",
+  "bbox": [
+   -79.71485,
+   36.54086,
+   -77.40782,
+   38.25818
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5106",
+  "id": "VA06",
+  "name": "VA06 District",
+  "file": "districts/VA06.geojson",
+  "bbox": [
+   -80.29608,
+   37.13736,
+   -77.8283,
+   39.46602
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5107",
+  "id": "VA07",
+  "name": "VA07 District",
+  "file": "districts/VA07.geojson",
+  "bbox": [
+   -78.72645,
+   37.78018,
+   -77.001,
+   38.71653
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5108",
+  "id": "VA08",
+  "name": "VA08 District",
+  "file": "districts/VA08.geojson",
+  "bbox": [
+   -77.2395,
+   38.61897,
+   -77.0322,
+   38.9683
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5109",
+  "id": "VA09",
+  "name": "VA09 District",
+  "file": "districts/VA09.geojson",
+  "bbox": [
+   -83.6754,
+   36.54197,
+   -79.30086,
+   37.6603
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5110",
+  "id": "VA10",
+  "name": "VA10 District",
+  "file": "districts/VA10.geojson",
+  "bbox": [
+   -78.33818,
+   38.40973,
+   -77.31366,
+   39.32436
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5111",
+  "id": "VA11",
+  "name": "VA11 District",
+  "file": "districts/VA11.geojson",
+  "bbox": [
+   -77.49682,
+   38.66654,
+   -77.13539,
+   39.05768
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5000",
+  "id": "VT00",
+  "name": "VT00 District",
+  "file": "districts/VT00.geojson",
+  "bbox": [
+   -73.4379,
+   42.72693,
+   -71.46505,
+   45.01625
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5301",
+  "id": "WA01",
+  "name": "WA01 District",
+  "file": "districts/WA01.geojson",
+  "bbox": [
+   -122.32724,
+   47.60231,
+   -121.94301,
+   48.19144
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5302",
+  "id": "WA02",
+  "name": "WA02 District",
+  "file": "districts/WA02.geojson",
+  "bbox": [
+   -123.20331,
+   47.77766,
+   -120.6781,
+   49.00215
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5303",
+  "id": "WA03",
+  "name": "WA03 District",
+  "file": "districts/WA03.geojson",
+  "bbox": [
+   -124.09834,
+   45.54775,
+   -121.37677,
+   46.93346
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5304",
+  "id": "WA04",
+  "name": "WA04 District",
+  "file": "districts/WA04.geojson",
+  "bbox": [
+   -121.61225,
+   45.60646,
+   -118.83663,
+   49.00028
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5305",
+  "id": "WA05",
+  "name": "WA05 District",
+  "file": "districts/WA05.geojson",
+  "bbox": [
+   -119.4532,
+   45.99536,
+   -116.91608,
+   49.00009
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5306",
+  "id": "WA06",
+  "name": "WA06 District",
+  "file": "districts/WA06.geojson",
+  "bbox": [
+   -124.73183,
+   46.79158,
+   -122.29487,
+   48.39089
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5307",
+  "id": "WA07",
+  "name": "WA07 District",
+  "file": "districts/WA07.geojson",
+  "bbox": [
+   -122.52603,
+   47.33332,
+   -122.23035,
+   47.77793
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5308",
+  "id": "WA08",
+  "name": "WA08 District",
+  "file": "districts/WA08.geojson",
+  "bbox": [
+   -122.56045,
+   46.72846,
+   -119.85972,
+   48.54768
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5309",
+  "id": "WA09",
+  "name": "WA09 District",
+  "file": "districts/WA09.geojson",
+  "bbox": [
+   -122.41788,
+   47.25725,
+   -122.09655,
+   47.617
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5310",
+  "id": "WA10",
+  "name": "WA10 District",
+  "file": "districts/WA10.geojson",
+  "bbox": [
+   -123.20312,
+   46.82244,
+   -122.21885,
+   47.25756
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5501",
+  "id": "WI01",
+  "name": "WI01 District",
+  "file": "districts/WI01.geojson",
+  "bbox": [
+   -89.13109,
+   42.49227,
+   -87.75791,
+   42.98666
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5502",
+  "id": "WI02",
+  "name": "WI02 District",
+  "file": "districts/WI02.geojson",
+  "bbox": [
+   -90.42983,
+   42.49621,
+   -88.97478,
+   43.64174
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5503",
+  "id": "WI03",
+  "name": "WI03 District",
+  "file": "districts/WI03.geojson",
+  "bbox": [
+   -92.80842,
+   42.50718,
+   -89.22375,
+   45.20956
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5504",
+  "id": "WI04",
+  "name": "WI04 District",
+  "file": "districts/WI04.geojson",
+  "bbox": [
+   -88.067,
+   42.93004,
+   -87.86381,
+   43.19213
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5505",
+  "id": "WI05",
+  "name": "WI05 District",
+  "file": "districts/WI05.geojson",
+  "bbox": [
+   -89.01352,
+   42.75551,
+   -87.94852,
+   43.54395
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5506",
+  "id": "WI06",
+  "name": "WI06 District",
+  "file": "districts/WI06.geojson",
+  "bbox": [
+   -89.78582,
+   43.19205,
+   -87.50842,
+   44.3276
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5507",
+  "id": "WI07",
+  "name": "WI07 District",
+  "file": "districts/WI07.geojson",
+  "bbox": [
+   -92.88812,
+   43.88583,
+   -88.05826,
+   47.07696
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5508",
+  "id": "WI08",
+  "name": "WI08 District",
+  "file": "districts/WI08.geojson",
+  "bbox": [
+   -89.22482,
+   43.97888,
+   -86.84291,
+   45.79565
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5401",
+  "id": "WV01",
+  "name": "WV01 District",
+  "file": "districts/WV01.geojson",
+  "bbox": [
+   -82.64445,
+   37.20155,
+   -79.0572,
+   39.16759
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5402",
+  "id": "WV02",
+  "name": "WV02 District",
+  "file": "districts/WV02.geojson",
+  "bbox": [
+   -81.75608,
+   38.38846,
+   -77.71953,
+   40.63881
+  ]
+ },
+ {
+  "congress": "120",
+  "fips": "5600",
+  "id": "WY00",
+  "name": "WY00 District",
+  "file": "districts/WY00.geojson",
+  "bbox": [
+   -111.05689,
+   40.99475,
+   -104.05224,
+   45.00581
+  ]
+ }
+]
